@@ -122,7 +122,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="DataPlot.cpp" />
+    <ClCompile Include="K_means.cpp" />
     <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DataPlot.h" />
+    <ClInclude Include="DataStructure.h" />
+    <ClInclude Include="GeneralHeader.h" />
+    <ClInclude Include="K_means.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -3,4 +3,5 @@ K-means-demo/x64/
 x64/
 K-means-demo.opensdf
 *.sdf
+.vs/
 

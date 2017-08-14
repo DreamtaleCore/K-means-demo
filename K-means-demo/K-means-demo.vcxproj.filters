@@ -18,5 +18,25 @@
     <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="DataPlot.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="K_means.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DataPlot.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneralHeader.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DataStructure.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="K_means.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
